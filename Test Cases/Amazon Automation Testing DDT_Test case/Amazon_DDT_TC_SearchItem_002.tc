@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon_DDT_TC_SearchItem_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23d7f621-4f3f-4faf-a98d-fa5d609aed23</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11080513-9153-4a29-a1f2-0ed3d473bf89</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1216e23-4e76-4c3a-b5db-4c3c652b4c4d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>11080513-9153-4a29-a1f2-0ed3d473bf89</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1216e23-4e76-4c3a-b5db-4c3c652b4c4d</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>
